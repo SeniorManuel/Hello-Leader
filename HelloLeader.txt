@@ -1,4 +1,14 @@
 Hello World
+<<<<<<< HEAD
+ako si paolo
+=======
 EMMAN THE BEST
 what is the best thing to do when you are bored?
+<<<<<<< HEAD
+I am Kyzha123
+=======
+>>>>>>> 98fdbfed43446b90f566b2b16d3bc142af01cbda
+>>>>>>> 084c811e663cc9a788747837e2a579a19edf5cee
+
+
 I am Kyzha123
